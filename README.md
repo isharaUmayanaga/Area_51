@@ -26,8 +26,10 @@ This game is a simple task management application created for the MAD Lab Exam 3
   - Avoid enemy fire to preserve the vehicle’s life.  
   - When the vehicle’s life reaches zero:  
     - Total score and high score are displayed.  
-    - Option to restart the game.  
-
+    - Option to restart the game.
+      
+##Screenshots
+[View Game Guide](https://github.com/isharaUmayanaga/Area_51/blob/main/area51.pdf)
 
 
 
